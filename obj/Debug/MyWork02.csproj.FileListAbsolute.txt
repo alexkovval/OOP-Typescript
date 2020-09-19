@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Alex\PROJ\MyWork02\bin\MyWork02.dll
+C:\Users\user\Desktop\Alex\PROJ\MyWork02\bin\MyWork02.pdb
+C:\Users\user\Desktop\Alex\PROJ\MyWork02\obj\Debug\MyWork02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Alex\PROJ\MyWork02\obj\Debug\MyWork02.dll
+C:\Users\user\Desktop\Alex\PROJ\MyWork02\obj\Debug\MyWork02.pdb
+C:\Users\user\Desktop\Alex\PROJ\MyWork02\obj\Debug\MyWork02.csprojAssemblyReference.cache
